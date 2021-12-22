@@ -10,4 +10,4 @@ Created a pipeline to automate the task of reading in three separate data source
 
 ## Note to TA / Grader:
 
-I ran into multiple issues with this module stemming from the difficulty of creating a large function. I had difficulties debugging my code in Deliverable 3 and struggled to find the issue with the BCS Assistants but finally discovered the issue. I had issues with my PostgreSQL password information as well as my PythonData environment not recognizing my SQLAlchemy plugin. I was able to finish the code but not able to push the data to my table. 
+I ran into multiple issues with this module stemming from the difficulty of creating a large function. I had difficulties debugging my code in Deliverable 3 and struggled to find the issue with the BCS Assistants but finally discovered the issue. I had issues with my PostgreSQL password information as well as my PythonData environment not recognizing my SQLAlchemy plugin. I tried using online resources but the steps are very hard to do on Mac and didnt make sense. Resetting passwords are very tricky in PostgreSQL. I was able to finish the code but not able to push the data to my table. 
